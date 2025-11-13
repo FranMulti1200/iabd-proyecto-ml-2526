@@ -14,3 +14,4 @@
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
 | Belean, Denisa Ramona | Clustering de lectores según su perfil |
 | López Guerrero, Álvaro | Predicción del tiempo de entrega de pedidos de comida a domicilio |
+| Bautista Somosierra, Francisco | Predicción del indice de calidd del aire en el centro de Málaga |

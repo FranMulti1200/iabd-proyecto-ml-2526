@@ -16,3 +16,4 @@
 | López Guerrero, Álvaro | Predicción de lesiones en deportistas |
 | Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo se asocia con una menor probabilidad de padecer hipertensión. |
 | Delgado Rodríguez, Antonio | Predicción de diabetes |
+| Bautista Somosierra, Francisco | Predicción precio gasolina |

@@ -20,3 +20,4 @@
 | Dueñas Cortés, Manuel | Predicción de goles de jugadores de futbol |
 | Munteanu Popa, Andrei | Predicción del puntaje de felicidad de países |
 | Chacón Macías, Juan Francisco | Predicción de la calidad del sueño |
+| Bautista Somosierra, Francisco |                                   |
